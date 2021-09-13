@@ -2,7 +2,7 @@
 # SpringBoot-Rest-Api
 
 ## Description of the Project 
-I have created TrainingController on Controller package where i have handled saving training information @PostMapping and Getting all the information by @Get Mapping I have used Hibernate ORM on spring boot you can change the properties on application.properties i have given this json text to be checked on postman client the information can be validated by changing the text for example centerCode excedding 40 alphanumeric characters There is a seprate entity for the Address and courses and i have used dto and one to many mapping to save the information
+I have created TrainingController on Controller package where I have handled saving training information @PostMapping and Getting all the information by @Get Mapping. I have used Hibernate ORM on spring boot you can change the properties on the application properties. I have given this JSON text to be checked on the postman client the information can be validated by changing the text, for example, center code exceeding 40 alphanumeric characters There is a separate entity for the Address and courses and I have used DTO and one to many mapping to save the information
 
 
 ## Deployment
